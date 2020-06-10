@@ -1,0 +1,15 @@
+{
+  "config": {
+    "archivesPageSize": 50,
+    "dateFormat": "YYYY-MM-DD",
+    "footerInfo": "Powered by Hve Notes",
+    "postPageSize": 10,
+    "postUrlFormat": "SLUG",
+    "showFeatureImage": true,
+    "siteDescription": "温故而知新",
+    "siteName": "四辅的博客",
+    "tagUrlFormat": "SHORT_ID",
+    "themeName": "fly"
+  },
+  "customConfig": {}
+}
